@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<employees>
+    <denomination>Сотрудники фирмы</denomination>
+
+	<employee>
+	    <Id>1</Id>
+	    <passport>
+	        <surname>Иванов</surname>
+            <name>Иван</name>
+            <patronymic>Иванович</patronymic>
+            <birthdate>01.01.1990</birthdate>
+            <birthplace>Киров</birthplace>
+	    </passport>
+	    <position>Начальник транспортного цеха</position>
+	    <residens>Москва</residens>
+        <phone>8 926 766 48 48</phone>
+        <mail>Ivan@mail.com</mail>
+	</employee>
+	
+	<employee>
+	    <Id>2</Id>
+	    <passport>
+	        <surname>Сидорова</surname>
+            <name>Мария</name>
+            <patronymic>Викторовна</patronymic>
+            <birthdate>13.04.1985</birthdate>
+            <birthplace>Ярославль</birthplace>
+	    </passport>
+	    <position>Главный бухгалтер</position>
+	    <residens>Москва</residens>
+        <phone>8 999 700 18 98</phone>
+        <mail>Masha@mail.com</mail>
+	</employee>
+	
+	<employee>
+	    <Id>3</Id>
+	    <passport>
+	        <surname>Конев</surname>
+            <name>Максим</name>
+            <patronymic>Петрович</patronymic>
+            <birthdate>01.05.2000</birthdate>
+            <birthplace>Омск</birthplace>
+	    </passport>
+	    <position>Водитель</position>
+	    <residens>Москва</residens>
+        <phone>8 910 330 00 98</phone>
+        <mail>Konev@mail.com</mail>
+	</employee>
+    
+</employees>

@@ -1,0 +1,50 @@
+{"employees": [
+   
+    {   "id": "1", 
+        "passport" :[
+            {"surname": "Иванов"},
+            {"name": "Иван"},
+            {"patronymic": "Иванович"},
+            {"birthdate": "01.01.1990"},
+            {"birthplace": "Киров"}],
+        "position": "Начальник транспортного цеха",
+        "residens": "Москва",
+        "phone": "8 926 766 48 48",
+        "mail": "Ivan@mail.com"
+    },
+  {     "id": "2", 
+          "passport" :[
+            {"surname": "Сидорова"},
+            {"name": "Мария"},
+            {"patronymic": "Викторовна"},
+            {"birthdate": "13.04.1985"},
+            {"birthplace": "Ярославль"}],
+        "position": "Главный бухгалтер",
+        "residens": "Москва",
+        "phone": "8 999 700 18 98",
+        "mail": "Masha@mail.com"
+        },
+    {   "id": "3", 
+        "passport" :[
+            {"surname": "Конев"},
+            {"name": "Максим"},
+            {"patronymic": "Петрович"},
+            {"birthdate": "01.05.2000"},
+            {"birthplace": "Омск"}],
+        "position": "Водитель",
+        "residens": "Москва",
+        "phone": "8 910 330 00 98",
+        "mail": "Konev@mail.com"
+    }
+]    
+}
+
+
+
+
+
+
+
+
+
+
